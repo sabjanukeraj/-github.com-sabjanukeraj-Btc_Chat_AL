@@ -12,3 +12,7 @@
     "dotenv": "^16.0.3"
   }
 }
+"main": "src/server.js",
+"scripts": {
+  "start": "node src/server.js"
+}
